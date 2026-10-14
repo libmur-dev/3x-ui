@@ -231,7 +231,7 @@ html[data-theme='ultra-dark'] .command-palette-modal {
 }
 
 .command-palette-modal.light .command-palette-group-title {
-  color: #8c8c8c;
+  color: #595959;
 }
 
 .command-palette-modal.dark .command-palette-group-title,
@@ -419,7 +419,7 @@ html[data-theme='ultra-dark'] .command-palette-modal {
 .command-palette-modal.light .command-palette-footer {
   background: #fafafa;
   border-top-color: rgba(0, 0, 0, 0.08);
-  color: #8c8c8c;
+  color: #595959;
 }
 
 .command-palette-modal.dark .command-palette-footer {
